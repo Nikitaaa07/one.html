@@ -1,0 +1,17 @@
+table
+{
+	border-style:double;
+	border-color:teal;
+	border-width:2px;
+	border-top-width:thick;
+	border-bottom-width:thick;
+	border-left-width:thick;
+	border-right-width:thick;
+	border-collapse:collapse;
+	border-radius:8px;
+}
+th,td
+{
+	padding:8px 12px;
+	border:1px solid teal;
+}
